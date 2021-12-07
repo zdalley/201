@@ -1,0 +1,14 @@
+body{
+    color:black;
+    font-family:fantasy;
+}
+h2{
+    color: chocolate;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    color:royalblue;
+}
+.post-title{
+    color:blue;
+}
