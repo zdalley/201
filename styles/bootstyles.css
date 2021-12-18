@@ -1,0 +1,16 @@
+.header1{
+    color: chocolate;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24pt;
+}
+.center{
+    text-align:center;
+}
+.links{
+    color:blue;
+    text-decoration-line: underline;
+    font-style:italic;
+    font-size: 16pt;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 1%;
+}
